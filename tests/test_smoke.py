@@ -1,4 +1,4 @@
-from project_name import hello, __version__
+from project_name import __version__, hello
 
 
 def test_package_imports():
