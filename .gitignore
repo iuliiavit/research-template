@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.ipynb_checkpoints/
+*.ipynb~
+/data/*
+!/data/README.md
+/models/
+outputs/
+.DS_Store
+.vscode/
+.idea/
